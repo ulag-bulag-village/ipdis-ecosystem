@@ -1,0 +1,3 @@
+[submodule "ipwis"]
+path = ipwis
+url = git@github.com:ulagbulag-village/ipwis.git
