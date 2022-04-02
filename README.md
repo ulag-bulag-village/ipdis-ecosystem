@@ -1,5 +1,18 @@
 # IPIS Development Environment
 
+## Usage
+
+```bash
+# Download
+git clone git@github.com:ulagbulag-village/ipis-dev-env.git --recursive
+
+# Enter
+cd ipis-dev-env
+
+# Update
+git pull --recurse-submodules
+```
+
 ## License
 
 * All Modules (`/ip*/`) are licensed separately.
