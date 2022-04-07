@@ -4,3 +4,6 @@ url = git@github.com:ulagbulag-village/avusen.git
 [submodule "ipwis"]
 path = ipwis
 url = git@github.com:ulagbulag-village/ipwis.git
+[submodule "ipnis"]
+	path = ipnis
+	url = git@github.com:ulagbulag-village/ipnis.git
