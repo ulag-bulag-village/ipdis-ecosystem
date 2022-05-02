@@ -1,6 +1,9 @@
 [submodule "avusen"]
 path = avusen
 url = git@github.com:ulagbulag-village/avusen.git
+[submodule "ipi"]
+path = ipi
+url = git@github.com:ulagbulag-village/ipi.git
 [submodule "ipnis"]
 path = ipnis
 url = git@github.com:ulagbulag-village/ipnis.git
