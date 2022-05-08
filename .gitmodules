@@ -13,9 +13,6 @@ url = git@github.com:ulagbulag-village/ipdis.git
 [submodule "ipiis"]
 path = ipiis
 url = git@github.com:ulagbulag-village/ipiis.git
-[submodule "ipnis"]
-path = ipnis
-url = git@github.com:ulagbulag-village/ipnis.git
 [submodule "ipwis"]
 path = ipwis
 url = git@github.com:ulagbulag-village/ipwis.git
