@@ -4,10 +4,10 @@
 
 ```bash
 # Download
-git clone git@github.com:ulagbulag-village/ipis-dev-env.git --recursive
+git clone git@github.com:ulagbulag-village/ipi-dev-env.git --recursive
 
 # Enter
-cd ipis-dev-env
+cd ipi-dev-env
 
 # Update
 git pull --recurse-submodules
