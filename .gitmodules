@@ -22,3 +22,6 @@ url = git@github.com:ulagbulag-village/ipsis.git
 [submodule "ipwis"]
 path = ipwis
 url = git@github.com:ulagbulag-village/ipwis.git
+[submodule "netai-cloud"]
+path = netai-cloud
+url = git@github.com:ulagbulag-village/netai-cloud
