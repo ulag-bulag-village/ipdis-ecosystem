@@ -16,7 +16,9 @@ jobs:
           token: ${{ secrets.PRIVATE_TOKEN_GITHUB_KERRYEON }}
 
       - name: Update submodules recursively
-        run: git submodule update --init --recursive
+        run: |
+          git submodule update --init --recursive
+          git submodule foreach --recursive git checkout master
 
       - name: Commit update
         run: |
